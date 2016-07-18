@@ -1,12 +1,12 @@
 ---
 - uid: privacy.statement
-  name: Ochrana osobních údajů a soubory cookie
+  name: Privacy & Cookies
 - uid: terms.of.use
-  name: Podmínky použití
+  name: Terms of Use
 - uid: impressum.text
-  name: Tiráž
+  name: Impressum
 - uid: trademarks
-  name: Ochranné známky
+  name: Trademarks
 - uid: feedback
-  name: Váš názor
+  name: Feedback
 ...

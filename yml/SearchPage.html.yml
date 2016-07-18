@@ -1,0 +1,14 @@
+---
+- uid: results.title
+  name: Search results for
+- uid: last.updated
+  name: last updated
+- uid: previous
+  name: Previous
+- uid: next
+  name: Next
+- uid: no.results
+  name: No results available
+- uid: no.search.term
+  name: No search term
+...

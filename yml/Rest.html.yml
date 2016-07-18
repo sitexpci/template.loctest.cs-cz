@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: Zkuste to!
+  name: Try It!
 - uid: test.request
-  name: Testovací žádost
+  name: Test Request
 - uid: sample.request
-  name: Ukázková žádost
+  name: Sample Request
 - uid: sample.response
-  name: Ukázková odpověď
+  name: Sample Response
 - uid: response.header
-  name: Hlavička odpovědi
+  name: Response Header
 - uid: response.code
-  name: Kód odpovědi
+  name: Response Code
 - uid: theme.light
-  name: Světlý
+  name: Light
 - uid: theme.dark
-  name: Tmavý
+  name: Dark
 - uid: edit
-  name: Upravit
+  name: Edit
 - uid: view.source
-  name: Zobrazit zdroj
+  name: View Source
 - uid: share
-  name: Sdílení
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: Platforma
+  name: Platform
 - uid: language
-  name: Jazyk
+  name: Language
 - uid: theme
-  name: Motiv
+  name: Theme
 - uid: options
-  name: Možnosti
+  name: Options
 - uid: more
-  name: Víc
+  name: More
 - uid: author.name
-  name: Jméno autora
+  name: Author Name
 ...

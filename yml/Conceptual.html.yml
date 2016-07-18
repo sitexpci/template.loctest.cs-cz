@@ -1,20 +1,20 @@
 ---
 - uid: theme.light
-  name: Světlý
+  name: Light
 - uid: theme.dark
-  name: Tmavý
+  name: Dark
 - uid: theme
-  name: Motiv
+  name: Theme
 - uid: comments
-  name: Komentáře
+  name: Comments
 - uid: edit
-  name: Upravit
+  name: Edit
 - uid: editdesc
-  name: Upravit tento dokument
+  name: Edit This Document
 - uid: share
-  name: Sdílení
+  name: Share
 - uid: sharedesc
-  name: Sdílet tento dokument
+  name: Share This Document
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -22,15 +22,15 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Možnosti
+  name: Options
 - uid: author.name
-  name: Jméno autora
+  name: Author Name
 - uid: in.this.article
-  name: V tomto článku
+  name: In this article
 - uid: min.to.read
-  name: min. ke čtení
+  name: min to read
 - uid: contributors
-  name: Přispěvatelé
+  name: Contributors
 - uid: product.feedback
-  name: Pokud chcete odeslat svůj názor na produkt, navštivte
+  name: To submit product feedback, please visit
 ...
