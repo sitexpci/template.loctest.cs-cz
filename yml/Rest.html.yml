@@ -1,0 +1,40 @@
+---
+- uid: try.it
+  name: Zkuste to!
+- uid: test.request
+  name: Testovací žádost
+- uid: sample.request
+  name: Ukázková žádost
+- uid: sample.response
+  name: Ukázková odpověď
+- uid: response.header
+  name: Hlavička odpovědi
+- uid: response.code
+  name: Kód odpovědi
+- uid: theme.light
+  name: Světlý
+- uid: theme.dark
+  name: Tmavý
+- uid: edit
+  name: Upravit
+- uid: view.source
+  name: Zobrazit zdroj
+- uid: share
+  name: Sdílení
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: platform
+  name: Platforma
+- uid: language
+  name: Jazyk
+- uid: theme
+  name: Motiv
+- uid: options
+  name: Možnosti
+- uid: more
+  name: Víc
+- uid: author.name
+  name: Jméno autora
+...

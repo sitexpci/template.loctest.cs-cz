@@ -1,0 +1,14 @@
+---
+- uid: microsoft
+  name: Microsoft
+- uid: cookie.consent.europe
+  name: Použitím tohoto webu souhlasíte s použitím souborů cookie k poskytování analýz, přizpůsobeného obsahu a reklam.
+- uid: learnmore
+  name: Další informace
+- uid: privacystatement
+  name: Prohlášení o zásadách ochrany osobních údajů
+- uid: close
+  name: zavřít
+- uid: subheader.aboutdocs
+  name: O webu docs.microsoft.com
+...

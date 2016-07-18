@@ -1,0 +1,36 @@
+---
+- uid: theme.light
+  name: Světlý
+- uid: theme.dark
+  name: Tmavý
+- uid: theme
+  name: Motiv
+- uid: comments
+  name: Komentáře
+- uid: edit
+  name: Upravit
+- uid: editdesc
+  name: Upravit tento dokument
+- uid: share
+  name: Sdílení
+- uid: sharedesc
+  name: Sdílet tento dokument
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: Možnosti
+- uid: author.name
+  name: Jméno autora
+- uid: in.this.article
+  name: V tomto článku
+- uid: min.to.read
+  name: min. ke čtení
+- uid: contributors
+  name: Přispěvatelé
+- uid: product.feedback
+  name: Pokud chcete odeslat svůj názor na produkt, navštivte
+...
